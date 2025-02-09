@@ -51,6 +51,8 @@ public class Character {
             System.out.println("Using a shield to defend!"");
         }
     }
+
+UML CLASS DIAGRAM
 }
 ![StrategyPatternUML](https://github.com/user-attachments/assets/d9e75c74-d3e8-4f98-aedb-e21cd7a0ca0e)
 
