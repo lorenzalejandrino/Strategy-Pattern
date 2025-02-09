@@ -52,4 +52,5 @@ public class Character {
         }
     }
 }
+![StrategyPatternUML](https://github.com/user-attachments/assets/d9e75c74-d3e8-4f98-aedb-e21cd7a0ca0e)
 
